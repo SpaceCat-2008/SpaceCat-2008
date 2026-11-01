@@ -2,7 +2,7 @@
   <img src="cat.gif" alt="Banner" width="320">
 </p>
 
-<h1 align="center">Hola, soy SpaceCat-2008 😼</h1>
+<h1 align="center">Hola, soy Matías F.G 😼</h1>
 
 <p align="center"><i>El arte empieza donde termina el cielo</i></p>
 

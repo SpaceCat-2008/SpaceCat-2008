@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Estoy aprendiendo Java y me encanta crear ideas, juegos y cosas que antes no existían.
+Estoy aprendiendo Java y me encanta llevar a cabo ideas, crear juegos y cosas que me imagino.
 
 ## Mis proyectos
 

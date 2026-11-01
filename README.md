@@ -16,7 +16,7 @@
 
 ## Sobre mí
 
-Estoy aprendiendo Java y me encanta llevar a cabo ideas, crear juegos y cosas que me imagino.
+Estoy aprendiendo Java y me encanta llevar a mis cabo ideas, crear juegos y las cosas que me imagino.
 
 ## Mis proyectos
 
@@ -38,6 +38,7 @@ Pequeño proyecto de un mini juego de supervivencia en 2D.
 ---
 
 ## Contacto
+<p align="center">💥 Contactame para recomendaciónes o críticas 💥</p>
 
 [![Correo](https://img.shields.io/badge/Correo-matias.f.g.lppn%40gmail.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.f.g.lppn@gmail.com)
 

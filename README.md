@@ -1,3 +1,4 @@
+<p align="center"><img src="Gat.gif" width="250" alt="Gato"></p>
 <p align="center">
   <img src="cat.gif" alt="Banner" width="320">
 </p>

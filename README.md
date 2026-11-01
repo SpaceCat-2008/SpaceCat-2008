@@ -1,4 +1,3 @@
-<p align="center"><img src="Gat.gif" width="250" alt="Gato"></p>
 <p align="center">
   <img src="cat.gif" alt="Banner" width="320">
 </p>
@@ -43,3 +42,4 @@ Pequeño proyecto de un mini juego de supervivencia en 2D.
 [![Correo](https://img.shields.io/badge/Correo-matias.f.g.lppn%40gmail.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.f.g.lppn@gmail.com)
 
 <p align="center">⭐ Gracias por pasar por mi perfil ⭐</p>
+<p align="center"><img src="Gat.gif" width="250" alt="Gato"></p>

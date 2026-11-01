@@ -17,11 +17,11 @@ Estoy aprendiendo Java y me encanta crear ideas, juegos y cosas que antes no exi
 ## Mis proyectos
 
 ### 🎮 Mini Juego 2D
-Pequeño proyecto de un mini juego en 2D. Escribe aquí una frase más sobre qué hace o cómo se juega.
+Pequeño proyecto de un mini juego en 2D.
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
 
-[Ver el código](https://github.com/SpaceCat-2008/NOMBRE-DE-TU-REPOSITORIO)
+[Ver el código]([https://github.com/SpaceCat-2008/Alien-moon-survival-2D])
 
 ---
 
@@ -35,6 +35,6 @@ Pequeño proyecto de un mini juego en 2D. Escribe aquí una frase más sobre qu�
 
 ## Contacto
 
-[![Correo](https://img.shields.io/badge/Correo-tucorreo%40ejemplo.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+[![Correo](https://img.shields.io/badge/Correo-tucorreo%40ejemplo.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.f.g.lppn@gmail.com)
 
 <p align="center">⭐ Gracias por pasar por mi perfil ⭐</p>

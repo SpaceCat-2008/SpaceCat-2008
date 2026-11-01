@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cat.gif" alt="Banner" width="320">
+</p>
+
 <h1 align="center">Hola, soy SpaceCat-2008 😼</h1>
 
 <p align="center"><i>El arte empieza donde termina el cielo</i></p>
@@ -16,12 +20,12 @@ Estoy aprendiendo Java y me encanta crear ideas, juegos y cosas que antes no exi
 
 ## Mis proyectos
 
-### 🎮 Mini Juego 2D
-Pequeño proyecto de un mini juego en 2D.
+### 🎮 Alien Moon Survival 2D
+Pequeño proyecto de un mini juego de supervivencia en 2D.
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
 
-[Ver el código]([https://github.com/SpaceCat-2008/Alien-moon-survival-2D])
+[Ver el código](https://github.com/SpaceCat-2008/Alien-moon-survival-2D)
 
 ---
 
@@ -35,6 +39,6 @@ Pequeño proyecto de un mini juego en 2D.
 
 ## Contacto
 
-[![Correo](https://img.shields.io/badge/Correo-tucorreo%40ejemplo.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.f.g.lppn@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-matias.f.g.lppn%40gmail.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.f.g.lppn@gmail.com)
 
 <p align="center">⭐ Gracias por pasar por mi perfil ⭐</p>

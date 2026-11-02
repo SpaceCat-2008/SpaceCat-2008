@@ -1,46 +1,77 @@
-<p align="center">
-  <img src="cat.gif" alt="Banner" width="320">
-</p>
+<div align="center">
 
-<h1 align="center">Hola, soy Matías F.G 😼</h1>
+<img src="cat.gif" alt="Banner" width="320">
 
-<p align="center"><i>El arte empieza donde termina el cielo</i></p>
+# Matías Fuentealba
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aprendiendo-Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Aprendiendo Java">
-  <img src="https://img.shields.io/badge/Creando-ideas-FFD84D?style=for-the-badge" alt="Creando ideas">
-  <img src="https://img.shields.io/badge/Desde-Chile-2B50F5?style=for-the-badge" alt="Chile">
-</p>
+### Estudiante de Telecomunicaciones · Aprendiendo Java ☕
 
----
+*El arte empieza donde termina el cielo* 😼
 
-## Sobre mí
+**Telecomunicaciones · Liceo Politécnico Pueblo Nuevo · Temuco, Chile 🇨🇱**
 
-Estoy aprendiendo Java y me encanta llevar a cabo mis ideas, crear juegos y las cosas que me imagino.
-
-## Mis proyectos
-
-### 🎮 Alien Moon Survival 2D
-Pequeño proyecto de un mini juego de supervivencia en 2D.
-
-![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
-
-[Ver el código](https://github.com/SpaceCat-2008/Alien-moon-survival-2D)
+</div>
 
 ---
 
-## Herramientas
+## 👋 Sobre mí
 
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Soy estudiante técnico en Telecomunicaciones, responsable, con alta disposición a aprender y facilidad para el trabajo en equipo. Cuento con conocimientos base en el funcionamiento de centrales telefónicas (PBX) y fundamentos de redes e infraestructura IP. 📡
+
+Además, estoy **aprendiendo Java** ☕ y creando ideas y juegos a través de pequeños proyectos propios.
+
+Busco una oportunidad de práctica profesional donde aplicar mis conocimientos, adaptabilidad y deseo de superación, aportando de manera positiva al equipo de trabajo. 📈
 
 ---
 
-## Contacto
-<p align="center">💥 Contactame para recomendaciónes o críticas 💥</p>
+## 🎓 Educación
 
-[![Correo](https://img.shields.io/badge/Correo-matias.f.g.lppn%40gmail.com-2B50F5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.f.g.lppn@gmail.com)
+**Técnico de Nivel Medio en Telecomunicaciones** (en curso)
+Liceo Politécnico Pueblo Nuevo · 2023 – 2026
 
-<p align="center">⭐ Gracias por pasar por mi perfil ⭐</p>
-<p align="center"><img src="Gat.gif" width="250" alt="Gato"></p>
+---
+
+## 🛠️ Tecnologías
+
+- ☕ **Java:** aprendiendo y practicando con proyectos propios.
+- 🔀 **Git y GitHub:** control de versiones y publicación de mis proyectos.
+
+---
+
+## 🚀 Proyectos
+
+### 👾 Alien Moon Survival 2D
+
+Pequeño proyecto de un mini juego de supervivencia en 2D, hecho en Java.
+
+🔗 [Ver el código](https://github.com/SpaceCat-2008/Alien-moon-survival-2D)
+
+---
+
+## 🧰 Habilidades técnicas
+
+- 🌐 **Fundamentos de redes:** conceptos esenciales del modelo OSI, direccionamiento IP (IPv4) y conectividad de redes locales (LAN).
+- ☎️ **Telefonía y PBX:** comprensión básica del funcionamiento y flujo de llamadas en centrales telefónicas de conmutación privada.
+- 🔌 **Infraestructura física:** reconocimiento de cableado estructurado (cables de red UTP, conectores RJ45) e interpretación de diagramas básicos de conexión.
+- 🦺 **Seguridad y herramientas:** uso correcto de herramientas manuales de telecomunicaciones (como tester de red) y aplicación estricta de normas de seguridad eléctrica y uso de EPP.
+
+## 🤝 Habilidades blandas
+
+- ✅ **Responsabilidad:** compromiso con el cumplimiento de las tareas asignadas y el cuidado de los equipos de trabajo.
+- ⏰ **Puntualidad:** rigurosidad con el cumplimiento de los horarios establecidos de ingreso y plazos de entrega.
+- 📚 **Disposición a aprender:** alta motivación por adquirir nuevos conocimientos técnicos en terreno.
+- 👥 **Trabajo en equipo:** facilidad para colaborar eficazmente en proyectos grupales.
+
+---
+
+## 📫 Contacto
+
+✉️ [matias.f.g.lppn@gmail.com](mailto:matias.f.g.lppn@gmail.com)
+
+<div align="center">
+
+<img src="Gat.gif" width="250" alt="Gato">
+
+⭐ Gracias por pasar por mi perfil ⭐
+
+</div>

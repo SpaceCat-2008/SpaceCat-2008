@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="cat.gif" alt="Banner" width="320">
-
 # Matías Fuentealba
 
 ### Estudiante de Telecomunicaciones · Aprendiendo Java ☕
@@ -69,8 +67,6 @@ Pequeño proyecto de un mini juego de supervivencia en 2D, hecho en Java.
 ✉️ [matias.f.g.lppn@gmail.com](mailto:matias.f.g.lppn@gmail.com)
 
 <div align="center">
-
-<img src="Gat.gif" width="250" alt="Gato">
 
 ⭐ Gracias por pasar por mi perfil ⭐
 
